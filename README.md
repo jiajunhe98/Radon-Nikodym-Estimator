@@ -13,7 +13,13 @@ This repo is current under construnction and we will release complete code ASAP.
 
 ## Notebook and Tutorial
 
-To aid understanding of how to implement our method, we provide several notebooks in ```Notebooks```, covering (1) density estimation; (2) diffusion control; and (3) energy-based training.
+To aid understanding of how to implement our method, we provide several notebooks in ```Notebooks```, covering:
+
+(1) [density estimation](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/density_estimator.ipynb); 
+
+(2) diffusion control; 
+
+(3) energy-based training.
 
 ## Experiments  (under construction)
 
