@@ -17,7 +17,7 @@ To aid understanding of how to implement our method, we provide several notebook
 
 (1) [density estimation](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/density_estimator.ipynb); 
 
-(2) diffusion control; 
+(2) diffusion control ([anneal](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/diffusion_control_anneal.ipynb); ); 
 
 (3) energy-based training.
 
