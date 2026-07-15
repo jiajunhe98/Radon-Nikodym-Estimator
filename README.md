@@ -18,7 +18,7 @@ This repo is currently under construction, and we will release the complete code
 
 - [x] Tutorial notebook for energy-based training;
 
-- [ ] Annealing application;
+- [x] Annealing application;
 
 - [ ] Reward-tilting application;
 
@@ -35,10 +35,21 @@ To aid understanding of how to implement our method, we provide several notebook
 
 (3) [energy-based training](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/energy_based_training.ipynb).
 
-## 💻 Experiments  (under construction)
+## 💻 Experiments 
 
-### Test-time Annealing on Boltzmann distributions
 
+```
+Applications
+├── anneal/      # RNE tempering
+├── energy/     # (under construction)
+├── stitch/     # (under construction)
+└── ctmc/       # (under construction)
+```
+
+### [Test-time Annealing on Boltzmann distributions](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/anneal)
+
+
+See [`Applications/anneal/Readme.md`](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/anneal) for environment setup and run commands.
 
 ### Test-time Reward-tilting with CTMC
 
