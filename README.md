@@ -10,13 +10,13 @@ This repo contains code for **RNE: plug-and-play diffusion inference-time contro
 
 This repo is currently under construction, and we will release the complete code ASAP.  Sorry for the delay.
 
-### Plans
+## 🗓️ Plans
 
 - [x] Tutorial notebook for density estimator;
 
 - [x] Tutorial notebook for diffusion control;
 
-- [ ] Tutorial notebook for energy-based training;
+- [x] Tutorial notebook for energy-based training;
 
 - [ ] Annealing application;
 
@@ -25,7 +25,7 @@ This repo is currently under construction, and we will release the complete code
 - [ ] Energy-based training application.
 
 
-## Notebook and Tutorial
+## 🎓 Notebook and Tutorial
 
 To aid understanding of how to implement our method, we provide several notebooks in ```Notebooks```, covering:
 
@@ -33,9 +33,9 @@ To aid understanding of how to implement our method, we provide several notebook
 
 (2) [diffusion control](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/diffusion_control_anneal.ipynb); 
 
-(3) energy-based training.
+(3) [energy-based training](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/blob/main/Notebooks/energy_based_training.ipynb).
 
-## Experiments  (under construction)
+## 💻 Experiments  (under construction)
 
 ### Test-time Annealing on Boltzmann distributions
 
@@ -55,7 +55,7 @@ Please email jh2383@cam.ac.uk if you have more questions.
 
 
 
-## Reference
+## 📑 Reference
 
 If you find this repository useful, please consider citing:
 
