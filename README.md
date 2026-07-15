@@ -10,6 +10,18 @@ This repo contains code for **RNE: plug-and-play diffusion inference-time contro
 
 This repo is current under construnction and we will release complete code ASAP.  Sorry for the delay.
 
+[x] Tutorial notebook for density estimator;
+
+[x] Tutorial notebook for diffusion control;
+
+[] Tutorial notebook for energy-based training;
+
+[] Annealing application;
+
+[] Reward-tilting application;
+
+[] Energy-based training application.
+
 
 ## Notebook and Tutorial
 
@@ -23,7 +35,7 @@ To aid understanding of how to implement our method, we provide several notebook
 
 ## Experiments  (under construction)
 
-### Test-time Annealing on Boltzman distributions
+### Test-time Annealing on Boltzmann distributions
 
 
 ### Test-time Reward-tilting with CTMC
@@ -32,11 +44,11 @@ To aid understanding of how to implement our method, we provide several notebook
 ### Test-time stitching for maze navigation
 
 
-### Energy-based diffusion training on Boltzman distributions (Alanine Dipeptide)
+### Energy-based diffusion training on Boltzmann distributions (Alanine Dipeptide)
 
 
 
-Please send email at jh2383@cam.ac.uk if you have more questions.
+Please email jh2383@cam.ac.uk if you have more questions.
 
 
 
