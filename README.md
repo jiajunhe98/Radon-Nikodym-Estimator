@@ -14,13 +14,13 @@ This repo is current under construnction and we will release complete code ASAP.
 
 - [x] Tutorial notebook for diffusion control;
 
-- [] Tutorial notebook for energy-based training;
+- [ ] Tutorial notebook for energy-based training;
 
-- [] Annealing application;
+- [ ] Annealing application;
 
-- [] Reward-tilting application;
+- [ ] Reward-tilting application;
 
-- [] Energy-based training application.
+- [ ] Energy-based training application.
 
 
 ## Notebook and Tutorial
