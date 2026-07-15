@@ -8,7 +8,9 @@
 
 This repo contains code for **RNE: plug-and-play diffusion inference-time control and energy-based training** (ICLR 2026). 
 
-This repo is current under construnction and we will release complete code ASAP.  Sorry for the delay.
+This repo is currently under construction, and we will release the complete code ASAP.  Sorry for the delay.
+
+### Plans
 
 - [x] Tutorial notebook for density estimator;
 
