@@ -10,17 +10,17 @@ This repo contains code for **RNE: plug-and-play diffusion inference-time contro
 
 This repo is current under construnction and we will release complete code ASAP.  Sorry for the delay.
 
-[x] Tutorial notebook for density estimator;
+- [x] Tutorial notebook for density estimator;
 
-[x] Tutorial notebook for diffusion control;
+- [x] Tutorial notebook for diffusion control;
 
-[] Tutorial notebook for energy-based training;
+- [] Tutorial notebook for energy-based training;
 
-[] Annealing application;
+- [] Annealing application;
 
-[] Reward-tilting application;
+- [] Reward-tilting application;
 
-[] Energy-based training application.
+- [] Energy-based training application.
 
 
 ## Notebook and Tutorial
