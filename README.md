@@ -74,6 +74,6 @@ If you find this repository useful, please consider citing:
 @inproceedings{he2025rne,
   title={RNE: plug-and-play diffusion inference-time control and energy-based training},
   author={He, Jiajun and Hern{\'a}ndez-Lobato, Jos{\'e} Miguel and Du, Yuanqi and Vargas, Francisco},
-  journal={ICLR},
+  booktitle={ICLR},
   year={2025}
 }
