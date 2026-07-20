@@ -1,2 +1,6 @@
 Notebooks/ema_net.pt
 Notebooks/__pycache__/mlp.cpython-314.pyc
+Applications/energy_based_training/run.ipynb
+Applications/energy_based_training/eval.ipynb
+Applications/energy_based_training/energy/__pycache__/aldp.cpython-314.pyc
+.DS_Store
