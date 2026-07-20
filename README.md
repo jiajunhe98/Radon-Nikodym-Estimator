@@ -46,18 +46,17 @@ Applications
 └── ctmc/       # (under construction)
 ```
 
-### 👉🏻[Test-time Annealing on Boltzmann distributions](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/anneal)
+##### 👉🏻[Test-time Annealing on Boltzmann distributions](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/anneal)
 
 
-See [`Applications/anneal/Readme.md`](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/anneal) for environment setup and run commands.
-
-### 👉🏻Test-time Reward-tilting with CTMC
+##### 👉🏻Test-time Reward-tilting with CTMC
 
 
-### 👉🏻Test-time stitching for maze navigation
+##### 👉🏻Test-time stitching for maze navigation
 
 
-### 👉🏻[Energy-based diffusion training on Boltzmann distributions (Alanine Dipeptide)](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/energy_based_training)
+##### 👉🏻[Energy-based diffusion training on Boltzmann distributions (Alanine Dipeptide)](https://github.com/jiajunhe98/Radon-Nikodym-Estimator/tree/main/Applications/energy_based_training)
+
 
 
 
