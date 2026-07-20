@@ -20,9 +20,10 @@ This repo is currently under construction, and we will release the complete code
 
 - [x] Annealing application;
 
-- [ ] Reward-tilting application;
+- [x] Energy-based training application;
 
-- [ ] Energy-based training application.
+- [ ] Reward-tilting application.
+
 
 
 ## 🎓 Notebook and Tutorial
